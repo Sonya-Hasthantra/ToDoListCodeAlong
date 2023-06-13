@@ -11,6 +11,8 @@
 		062EFD832A38C1190041DBF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062EFD822A38C1190041DBF1 /* ContentView.swift */; };
 		062EFD852A38C11A0041DBF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 062EFD842A38C11A0041DBF1 /* Assets.xcassets */; };
 		062EFD882A38C11A0041DBF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 062EFD872A38C11A0041DBF1 /* Preview Assets.xcassets */; };
+		062EFD8F2A38C1D00041DBF1 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062EFD8E2A38C1D00041DBF1 /* ToDoItem.swift */; };
+		062EFD912A38C41B0041DBF1 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062EFD902A38C41B0041DBF1 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		062EFD822A38C1190041DBF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		062EFD842A38C11A0041DBF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		062EFD872A38C11A0041DBF1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		062EFD8E2A38C1D00041DBF1 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		062EFD902A38C41B0041DBF1 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				062EFD802A38C1190041DBF1 /* ToDoListCodeAlongApp.swift */,
 				062EFD822A38C1190041DBF1 /* ContentView.swift */,
+				062EFD8E2A38C1D00041DBF1 /* ToDoItem.swift */,
+				062EFD902A38C41B0041DBF1 /* NewToDoView.swift */,
 				062EFD842A38C11A0041DBF1 /* Assets.xcassets */,
 				062EFD862A38C11A0041DBF1 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				062EFD832A38C1190041DBF1 /* ContentView.swift in Sources */,
 				062EFD812A38C1190041DBF1 /* ToDoListCodeAlongApp.swift in Sources */,
+				062EFD8F2A38C1D00041DBF1 /* ToDoItem.swift in Sources */,
+				062EFD912A38C41B0041DBF1 /* NewToDoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
